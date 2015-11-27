@@ -1,0 +1,5 @@
+- [ ] Larry
+- [ ] Quezon City
+- [ ] Breakfast Food! **Bacon!**
+- [ ] Listening to music
+- [ ] Favorite Color: **Red**
