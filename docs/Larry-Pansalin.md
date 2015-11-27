@@ -1,0 +1,4 @@
+- [ ] Larry
+- [ ] Quezon City
+- [ ] Breakfast Food! **Bacon!**
+- [ ] Listening to music
