@@ -3,3 +3,4 @@
 - [ ] Breakfast Food! **Bacon!**
 - [ ] Listening to music
 - [ ] Favorite Color: **Red**
+- [ ] Playing Guitar
